@@ -13,3 +13,5 @@ Leetcode 27. Remove Element
 Leetcode 7. Reverse Integer
 
 Leetcode 189. Rotate Array
+
+Leetcode 1. Two Sum
